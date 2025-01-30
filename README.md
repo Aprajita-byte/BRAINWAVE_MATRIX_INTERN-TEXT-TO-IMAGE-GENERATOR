@@ -41,14 +41,12 @@ http://127.0.0.1:3000
 ```
 
 ## Model Details
-This project is a fal.ai is a generative media platform designed for developers, offering high-performance AI model inference and training capabilities. The platform specializes in running diffusion models with production-ready APIs and interactive UI playgrounds.
+This project is a fal.ai, a generative media platform designed for developers. It offers high-performance AI model inference and training capabilities. The platform specializes in running diffusion models with production-ready APIs and interactive UI playgrounds.
 
 ## Contributing
 We welcome contributions! Feel free to submit pull requests or open issues.
 
-## License
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 Special thanks to the open-source AI community and contributors who made this project possible.
+
 
