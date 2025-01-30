@@ -37,7 +37,7 @@ npm run dev
 ### Access the application in your browser using the URL:
 You can also use the API to generate images programmatically:
 ```bash
-http://127.0.0.1:3000
+[http://localhost:3000]
 ```
 
 ## Model Details
